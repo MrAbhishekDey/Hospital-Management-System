@@ -288,7 +288,6 @@ public class Hospital{
             }
 
             // FINISH TREATMENT
-            // ==========================================
 
             patient.setStatus("Discharged");
 
